@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bayliss, a senior at Swarthmore College majoring in English lit and minoring in computer science & French and Francophone lit and culture. I am interested in digital journalism and how we can use both humanistic practices and computational tools to inform, connect, and tell stories.
+I'm Bayliss, a senior at Swarthmore College! 
+
+I am: 
+- majoring in English lit
+- minoring in computer science
+- and minoring in French and Francophone lit and culture. 
+
+I am interested in digital journalism and how we can use both humanistic practices and computational tools to inform, connect, and tell stories.
