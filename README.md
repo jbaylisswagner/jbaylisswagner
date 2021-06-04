@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bayliss, a senior at Swarthmore College! 
+I'm Bayliss, a recent graduate of Swarthmore College and current fact-check reporter at USA TODAY! 
 
-I am: 
-- majoring in English lit
-- minoring in computer science
-- and minoring in French and Francophone lit and culture. 
+I: 
+- majored in English lit
+- minored in computer science
+- and minored in French and Francophone lit and culture. 
 
 I am interested in digital journalism and how we can use both humanistic practices and computational tools to inform, connect, and tell stories.
