@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bayliss, a recent graduate of Swarthmore College and current fact-check reporter at USA TODAY! 
+I'm Bayliss, a recent graduate of Swarthmore College, past fact-check reporter at USA TODAY.
 
 I: 
 - majored in English lit
