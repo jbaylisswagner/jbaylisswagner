@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bayliss, a recent graduate of Swarthmore College and past fact-check reporter at USA TODAY.
+I'm Bayliss, a recent graduate of Swarthmore College and a freelancer writer and reporter, as well as a coder.
 
-I: 
-- majored in English lit
-- minored in computer science
-- and minored in French and Francophone lit and culture. 
+In college, I: 
+- majored in English lit, minored in computer science and French and Francophone lit and culture
+- reported and served as news and managing editor for _The Swarthmore Phoenix_
+- interned as a digital innovation / software/data developer at _The Philadelphia Inquirer_
+- spent a semester in Paris, France
+
+Since then, I have: 
+- written for USA TODAY as a fact-check reporting fellow
+- spent a year teaching English and nannying in Marseille, France
+- written numerous freelance articles for The Swarthmore Bulletin and news page 
+...just to give an overview.
 
 I am interested in digital journalism and how we can use both humanistic practices and computational tools to inform, connect, and tell stories.
