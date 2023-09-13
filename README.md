@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Bayliss, a recent graduate of Swarthmore College and a freelancer writer and reporter, as well as a coder.
 
 In college, I: 
-- majored in English lit, minored in computer science and French and Francophone lit and culture
+- majored in English lit and minored in Computer Science & French and Francophone lit and culture
 - reported and served as news and managing editor for _The Swarthmore Phoenix_
 - interned as a digital innovation / software/data developer at _The Philadelphia Inquirer_
 - spent a semester in Paris, France
