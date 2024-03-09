@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bayliss, a recent graduate of Swarthmore College and a freelancer writer and reporter, as well as a coder.
+I'm Bayliss, a data and state politics reporter at the Austin American-Statesman.
 
 In college, I: 
 - majored in English lit and minored in Computer Science & French and Francophone lit and culture
@@ -24,9 +24,10 @@ In college, I:
 - spent a semester in Paris, France
 
 Since then, I have: 
-- written for USA TODAY as a fact-check reporting fellow
+- written for USA TODAY as a fact-check reporting fellow for 1.5 years
 - spent a year teaching English and nannying in Marseille, France
-- written numerous freelance articles for The Swarthmore Bulletin and news page 
+- written numerous freelance articles for The Swarthmore Bulletin and news page
+- joined the Statesman's newsroom
 ...just to give an overview.
 
 I am interested in digital journalism and how we can use both humanistic practices and computational tools to inform, connect, and tell stories.
